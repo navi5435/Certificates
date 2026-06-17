@@ -1,2 +1,11 @@
-# Certificates
-This repository contains my professional certifications and internship credentials in Data Analytics, Data Science, and SQL. It includes certificates from Besant Technologies, Internship Studio, and HackerRank, showcasing my skills in Python, SQL, Data Analysis, Data Visualization, and Business Intelligence.
+# Certifications Portfolio
+
+Welcome to my Certifications Portfolio repository. This repository serves as a centralized collection of my professional certifications, internship completion certificates, and skill validation credentials earned throughout my learning journey in Data Analytics, Data Science, and related technologies. The purpose of this repository is to showcase my commitment to continuous learning, technical skill development, and practical application of analytical concepts in real-world scenarios.
+
+The repository includes certificates obtained through industry-oriented internships and recognized assessment platforms. Among them are the Data Analytics Internship certificate from Internship Studio, where I gained hands-on exposure to data analysis, data visualization, and business insight generation using tools such as Python, SQL, and Excel. It also contains the Data Science & AI Internship certificate from Besant Technologies, where I worked on projects involving data preprocessing, exploratory data analysis (EDA), statistics, machine learning fundamentals, feature engineering, and data-driven problem-solving techniques. These internship programs provided valuable practical experience and strengthened my understanding of the end-to-end analytics workflow.
+
+Additionally, this repository includes my SQL Certification from HackerRank, which validates my proficiency in SQL concepts such as joins, subqueries, aggregations, filtering, and database querying techniques. This certification demonstrates my ability to work with relational databases and extract meaningful insights from structured data.
+
+Through these certifications and internships, I have developed skills in Python, SQL, Data Analytics, Data Visualization, Power BI, Excel, Statistics, Exploratory Data Analysis, Business Intelligence, and Machine Learning fundamentals. Each certificate represents a milestone in my professional growth and reflects my dedication to building a strong foundation in the field of data analytics.
+
+This repository is intended to provide recruiters, hiring managers, and fellow professionals with easy access to my verified credentials and learning achievements. It highlights my passion for data-driven decision-making, continuous improvement, and readiness to contribute effectively to data analytics and business intelligence roles.
